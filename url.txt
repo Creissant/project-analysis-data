@@ -1,1 +1,1 @@
-https://project-data-analyst-varrel.streamlit.app/
+https://project-analysis-data-varrel.streamlit.app/
